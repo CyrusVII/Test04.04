@@ -1,0 +1,13 @@
+3: b
+4 : Un classe in python e cio che serve per creare un ogetto, Lei definisce i tipi di dato che puo contenere e metodi. In poche parole una classe e cio che definisce il comportamento e la struttura di un oggetto che andremo  a creare da essa. Il self e cio che fa riferimento all ogetto che creiamo partendo dalla classe e cio che ci permette di accedere a tutto cio che e all interno della classe.
+5 : b
+6: E una struttura che ci permette di raccogliere piu dati insieme che possono essere diversi o uguali e tra queste sono: Liste,Tuple,Set,Dizionari.
+7: b-c-d
+8: a
+10: d
+11: a
+12 : Encapsulamento : si tratta di nascondere dettagli all interno di un ogetto, mostrando cosi solo cio che ci serve. Ereditarieta: E cio che permetta a una classe di ereditare e quindi poter riutilizzare e ampliare metodi e attributi presi dalla classe padre. Polimorfismo: e cio che permette a classi e oggetti di avere comportamenti specifici anche se hanno interfaccie comuni
+13 : a-c-f-h
+14 : Le funzioni sono pezzi di codice autonomi, che eseguono una specifica o piu operazionio. incarnao il concetto di astrazione perche permettono in esse di nascondere dettagli di come si svolge un operazione cosi facendo gli sviluppatori possono interagire col codice senza preoccuparsi di cio che e implementato al loro interno.
+15 : d
+16 : Il controllo di flusso e cio che stabilisce l ordine in qui le operazioni , in programmazione e cio che stabilisce l ordine in qui il codice viene eseguito. ne fanno parte: Condizioni(if,else,elif),cicli(for,while),i salti(break,continue,pass), e le eccezioni(try,except,finally,raise). 
